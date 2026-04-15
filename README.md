@@ -1,5 +1,7 @@
 # An Examination of the Causal Relationship Between Rainfall and Crop Prices: A Focus on Wheat and Corn.
 
+![Example of prediction](docs/pics/ts_ex.png)
+
 ## Description
 
 Group project for CS418 @ UIC (University of Illinois at Chicago) for A.Y. 2024/2025.
