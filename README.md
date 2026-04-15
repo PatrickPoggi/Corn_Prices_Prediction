@@ -14,4 +14,4 @@ To reproduce these results, import project on Google Drive, unzip data.zip and r
 
 ## Conclusion
 
-A relation between weather in major corn produces in the U.S. and can be exploited to predict corn prices. Our model exhibts a **R<sup>2<sup>=0.98** and a **Directional accuracy = 0.76**.
+A relation between weather in major corn produces in the U.S. and can be exploited to predict corn prices. Our model exhibts a **R<sup>2</sup>=0.98** and a **Directional accuracy = 0.76**.
